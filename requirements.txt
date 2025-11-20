@@ -1,0 +1,7 @@
+scikit-learn
+pandas==2.2.3
+nltk
+numpy
+fastapi
+uvicorn
+pydantic

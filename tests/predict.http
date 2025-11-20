@@ -1,0 +1,8 @@
+@host = http://localhost:8000
+
+POST {{host}}/predict
+Content-Type: application/json
+
+{
+    "text": "Subject: Special Offer Just for You! Dear Customer, We are excited to offer you a special discount on our premium services. Click the link below to claim your offer now! Best regards,"
+}
